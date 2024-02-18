@@ -1,0 +1,205 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to Python Programming",
+        "slug": "introduction-to-python-programming",
+        "description": "Learn the fundamentals of Python programming language.",
+        "price": 49.99,
+        "instructor": "Mosaref paik",
+        "isFeatured": true,
+        "image": "intro_python.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Web Development with JavaScript",
+        "slug": "web-development-with-javascript",
+        "description": "Master JavaScript and build interactive web applications.",
+        "price": 59.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "web_dev_js.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Machine Learning Basics",
+        "slug": "machine-learning-basics",
+        "description": "Explore the foundations of machine learning algorithms.",
+        "price": 79.99,
+        "instructor": "Alex Johnson",
+        "isFeatured": true,
+        "image": "ml_basics.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Data Science for Beginners",
+        "slug": "data-science-for-beginners",
+        "description": "Get started with data science and analytics.",
+        "price": 69.99,
+        "instructor": "Emily Brown",
+        "isFeatured": false,
+        "image": "data_science.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Introduction to Artificial Intelligence",
+        "slug": "introduction-to-artificial-intelligence",
+        "description": "An overview of AI concepts and applications.",
+        "price": 89.99,
+        "instructor": "Michael Clark",
+        "isFeatured": true,
+        "image": "intro_ai.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Graphic Design Fundamentals",
+        "slug": "graphic-design-fundamentals",
+        "description": "Learn the basics of graphic design principles and tools.",
+        "price": 54.99,
+        "instructor": "Sophia Martinez",
+        "isFeatured": false,
+        "image": "graphic_design.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Mobile App Development with React Native",
+        "slug": "mobile-app-development-with-react-native",
+        "description": "Build cross-platform mobile apps using React Native framework.",
+        "price": 79.99,
+        "instructor": "William Taylor",
+        "isFeatured": true,
+        "image": "react_native.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Advanced Java Programming",
+        "slug": "advanced-java-programming",
+        "description": "Dive deeper into Java programming concepts and techniques.",
+        "price": 69.99,
+        "instructor": "David Wilson",
+        "isFeatured": false,
+        "image": "advanced_java.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Cybersecurity Essentials",
+        "slug": "cybersecurity-essentials",
+        "description": "Learn the basics of cybersecurity and protect against threats.",
+        "price": 64.99,
+        "instructor": "Ethan Thompson",
+        "isFeatured": true,
+        "image": "cybersecurity.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Introduction to Data Structures and Algorithms",
+        "slug": "introduction-to-data-structures-and-algorithms",
+        "description": "Learn fundamental data structures and algorithms.",
+        "price": 59.99,
+        "instructor": "Olivia Anderson",
+        "isFeatured": false,
+        "image": "data_structures_algorithms.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Introduction to Robotics",
+        "slug": "introduction-to-robotics",
+        "description": "Explore the basics of robotics and automation.",
+        "price": 74.99,
+        "instructor": "Lucas Garcia",
+        "isFeatured": true,
+        "image": "intro_robotics.jpg"
+      },
+      {
+        "id": 12,
+        "title": "Creative Writing Workshop",
+        "slug": "creative-writing-workshop",
+        "description": "Unlock your creativity through writing exercises and techniques.",
+        "price": 49.99,
+        "instructor": "Emma Johnson",
+        "isFeatured": false,
+        "image": "creative_writing.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Digital Marketing Fundamentals",
+        "slug": "digital-marketing-fundamentals",
+        "description": "Learn the basics of digital marketing strategies and tools.",
+        "price": 69.99,
+        "instructor": "Daniel Lee",
+        "isFeatured": true,
+        "image": "digital_marketing.jpg"
+      },
+      {
+        "id": 14,
+        "title": "UX/UI Design Essentials",
+        "slug": "ux-ui-design-essentials",
+        "description": "Discover the principles and practices of user experience and interface design.",
+        "price": 79.99,
+        "instructor": "Grace Wilson",
+        "isFeatured": false,
+        "image": "ux_ui_design.jpg"
+      },
+      {
+        "id": 15,
+        "title": "Introduction to Financial Markets",
+        "slug": "introduction-to-financial-markets",
+        "description": "Understand the basics of financial markets and investment.",
+        "price": 59.99,
+        "instructor": "Nathan Brown",
+        "isFeatured": true,
+        "image": "financial_markets.jpg"
+      },
+      {
+        "id": 16,
+        "title": "Photography Masterclass",
+        "slug": "photography-masterclass",
+        "description": "Improve your photography skills with expert guidance.",
+        "price": 69.99,
+        "instructor": "Sophie Davis",
+        "isFeatured": false,
+        "image": "photography.jpg"
+      },
+      {
+        "id": 17,
+        "title": "Blockchain Basics",
+        "slug": "blockchain-basics",
+        "description": "An introduction to blockchain technology and cryptocurrencies.",
+        "price": 79.99,
+        "instructor": "Ryan Miller",
+        "isFeatured": true,
+        "image": "blockchain.jpg"
+      },
+      {
+        "id": 18,
+        "title": "Spanish for Beginners",
+        "slug": "spanish-for-beginners",
+        "description": "Start learning Spanish with basic vocabulary and grammar.",
+        "price": 49.99,
+        "instructor": "Maria Garcia",
+        "isFeatured": false,
+        "image": "spanish_beginners.jpg"
+      },
+      {
+        "id": 19,
+        "title": "Music Production Essentials",
+        "slug": "music-production-essentials",
+        "description": "Learn the fundamentals of music production and audio engineering.",
+        "price": 79.99,
+        "instructor": "David Smith",
+        "isFeatured": true,
+        "image": "music_production.jpg"
+      },
+      {
+        "id": 20,
+        "title": "Artificial Neural Networks",
+        "slug": "artificial-neural-networks",
+        "description": "Study advanced concepts of artificial neural networks.",
+        "price": 89.99,
+        "instructor": "Jessica White",
+        "isFeatured": false,
+        "image": "neural_networks.jpg"
+      }
+    ]
+  }
+  
